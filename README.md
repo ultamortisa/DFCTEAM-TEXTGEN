@@ -1,3 +1,7 @@
+#Зеркало с codeberg
+https://codeberg.org/DFCTeam/textgen
+
+
 # textgen
 Generate text with LSTM/Transformer model
 
