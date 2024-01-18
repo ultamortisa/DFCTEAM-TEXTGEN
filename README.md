@@ -1,4 +1,4 @@
-#Зеркало с codeberg
+# Зеркало с codeberg
 https://codeberg.org/DFCTeam/textgen
 
 
